@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'sprint 1', folder: 'sprint1', file: 'sprint1.html'}
+- {name: 'sprint 2', folder: 'sprint2', file: 'sprint2.html'}
+- {name: 'sprint 3', folder: 'sprint3', file: 'sprint3.html'}
+- {name: 'sprint4', folder: 'sprint4', file: 'sprint4.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
